@@ -1,0 +1,4 @@
+fruits <- c("banana", "apple", "orange", "mango", "lemon")
+
+# Access first and third item (banana and orange)
+fruits[c(1, 3)]

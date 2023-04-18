@@ -1,3 +1,5 @@
+#c() removes the rows and collumns
+
 thismatrix <- matrix(c("apple", "banana", "cherry", "orange", "mango", "pineapple"), nrow = 3, ncol = 2)
 
 #Remove the first row and the first column

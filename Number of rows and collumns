@@ -1,0 +1,5 @@
+# use the dim() function to find out how many rows and collumns there are
+
+thismatrix <- matrix(c("apple", "banana", "cherry", "orange"), nrow = 2, ncol = 2)
+
+dim(thismatrix)

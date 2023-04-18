@@ -1,0 +1,6 @@
+# Vector of characters/strings
+fruits <- c("banana", "apple", "orange")
+
+# Print fruits
+fruits 
+=
